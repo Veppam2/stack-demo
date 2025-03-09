@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://veppam2.github.io/"
+baseurl = "https://veppam2.github.io/stack-demo/"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
